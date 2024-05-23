@@ -7,11 +7,18 @@ Python Band Name Genrator But essentially, it's a band name generator. And it as
  <img src="https://imgur.com/oTi8XU9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-In the above image we print these message using the print function, Some when you run it in the console it just print that message.
+In the image above, we use the print function to display these messages. When you run it in the console, it simply shows those messages.
+
 
 # Snapshot 2
 <p align="center">
   <br/>
- <img src="https://imgur.com/4tcfdFK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://imgur.com/RaGqQyh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+For question two, we ask the user what city they grew up in using the prompt: "Which city did you grow up in?" When we run it, it'll ask me this question, and I can type in my answer.
+
+
+
+
+
