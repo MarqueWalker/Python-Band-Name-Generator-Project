@@ -8,3 +8,10 @@ Python Band Name Genrator But essentially, it's a band name generator. And it as
 <br />
 <br />
 In the above image we print these message using the print function, Some when you run it in the console it just print that message.
+
+# Snapshot 2
+<p align="center">
+  <br/>
+ <img src="https://imgur.com/4tcfdFK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
