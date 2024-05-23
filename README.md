@@ -23,15 +23,10 @@ For question two, we ask the user, "Which city did you grow up in?" When we run 
 
 
 
-
-
-
-
-
 # Snapshot 3
 <p align="center">
   <br/>
- <img src="https://imgur.com/RaGqQyh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://imgur.com/IO0UUdz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
