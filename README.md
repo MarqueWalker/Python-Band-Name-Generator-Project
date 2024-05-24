@@ -30,3 +30,11 @@ For question two, we ask the user, "Which city did you grow up in?" When we run 
 <br />
 <br />
 
+In the above step is to ask the user for the name of the pet. So we'll call that varible "pet" and well assign it the value the user inputs for: "What is the name of a pet?"
+Now, Step 4 is to combine the name of the city and the pet show them their band name. There is a variety of ways of doing this but the above lessons is using "String Conatenation"
+So we're going to use a print statement and the "Your name could be ..." and then we are going to add then add the name of the city and then add a space and the add the of their pet.
+
+Now when we run our code it would ask us for the the name of the city and then the name of a pet and then it should combine those together a show us the name of out band.
+
+
+
