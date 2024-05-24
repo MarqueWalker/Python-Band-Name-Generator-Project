@@ -35,6 +35,10 @@ Now, Step 4 is to combine the name of the city and the pet show them their band 
 So we're going to use a print statement and the "Your name could be ..." and then we are going to add then add the name of the city and then add a space and the add the of their pet.
 
 Now when we run our code it would ask us for the the name of the city and then the name of a pet and then it should combine those together a show us the name of out band.
+In the finial step is that the input cursor should show on a new line, So that you get a bit of space and you're not typing it in directly after the prompt
+
+We do this by "modifying strings by creating a new line using the \n. We can add that both to the end of the city input and the pet input. Now when we run our code, you'll see that the the cursor now 
+shows up on the next line and our program looks alot better.
 
 
 
